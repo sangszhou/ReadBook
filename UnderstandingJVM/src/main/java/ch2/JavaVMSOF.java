@@ -11,7 +11,7 @@ public class JavaVMSOF {
     private int stackLength = 1;
 
     public void stackLeak() {
-        stackLength ++;
+        stackLength++;
         stackLeak();
     }
 

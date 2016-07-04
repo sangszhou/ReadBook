@@ -21,5 +21,4 @@ public class HeapOom {
             list.add(new OOMObject());
         }
     }
-
 }
